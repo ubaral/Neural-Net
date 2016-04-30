@@ -9,3 +9,4 @@ suuper simple neural net implementation for cs 189.... Will work on making bette
   - Don't use the same learning rate for different layers of the neural net! Bottom Layers should have bigger epsilon and upper layers should have smaller epsilon
   - Shuffle Data not randomly but in a way that increases the learning (i.e. rare classes more often, no sequence of the same classes)
   - Maybe add a simple line search to get a better gradient descent algorithm
+  - Try Differnt activation functions (ReLU, etc...)
