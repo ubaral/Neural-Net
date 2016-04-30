@@ -1,5 +1,5 @@
 # Neural-Net
-suuper simple neural net implementation for cs 189.... Will work on making better
+suuper simple neural net implementation for cs 189 (current test accuracy 0.96340; training accuracy 0.97345).... Will work on making better
 
 ### Things to improve/add:
   - More generalized backpropagation implementation. Right now just coded up as the closed form gradient with chain rule and only for cross entropy and mean squared losses.
